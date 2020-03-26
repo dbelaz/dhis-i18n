@@ -19,7 +19,7 @@ msgid "DHIS 2 browser cache cleaner"
 msgstr "Videur du cache navigateur DHIS2"
 
 msgid "Session storage"
-msgstr "Stockate de session"
+msgstr "Stockage de session"
 
 msgid "Local storage"
 msgstr "Stockage local"
